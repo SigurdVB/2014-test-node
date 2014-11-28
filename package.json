@@ -1,0 +1,21 @@
+{
+  "author": "Sigurd",
+  "name": "censorify_by_sigurdvb",
+  "version": "0.1.2",
+  "description": "Censor words out of text",
+  "main": "censortext",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SigurdVB/2014-test/censorify"
+  },
+  "keywords": [
+    "censor",
+    "words",
+    "test",
+    "nodejs"
+  ],
+  "dependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
